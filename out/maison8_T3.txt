@@ -1,0 +1,23 @@
+Maison_8: T3
+Ennemis présents
+
+    item ID: 1
+    Rarete: uncommon
+    Nom: Prismari Primer
+
+    item ID: 2
+    Rarete: rare
+    Nom: Oil of Etherealness
+
+    item ID: 3
+    Rarete: uncommon
+    Nom: Helm of Telepathy
+
+    item ID: 4
+    Rarete: common
+    Nom: Wand of Pyrotechnics
+
+    item ID: 5
+    Rarete: common
+    Nom: Voting Kit
+

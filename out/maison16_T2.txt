@@ -1,0 +1,23 @@
+Maison_16: T2
+Ennemis présents
+
+    item ID: 1
+    Rarete: uncommon
+    Nom: Sentinel Shield
+
+    item ID: 2
+    Rarete: very rare
+    Nom: Duskcrusher
+
+    item ID: 3
+    Rarete: uncommon
+    Nom: Piwafwi (Cloak of Elvenkind)
+
+    item ID: 4
+    Rarete: common
+    Nom: Wand of Conducting
+
+    item ID: 5
+    Rarete: very rare
+    Nom: Voyager Staff
+

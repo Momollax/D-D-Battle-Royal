@@ -1,0 +1,23 @@
+Maison_29: T2
+Pièges présents
+
+    item ID: 1
+    Rarete: uncommon
+    Nom: Orzhov Guild Signet
+
+    item ID: 2
+    Rarete: common
+    Nom: Vox Seeker
+
+    item ID: 3
+    Rarete: rare
+    Nom: Wand of Winter
+
+    item ID: 4
+    Rarete: common
+    Nom: Spell Scroll (Cantrip)
+
+    item ID: 5
+    Rarete: common
+    Nom: Pipe of Remembrance
+

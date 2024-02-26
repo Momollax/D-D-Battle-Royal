@@ -1,0 +1,19 @@
+Maison_34: T3
+Ennemis présents
+
+    item ID: 1
+    Rarete: uncommon
+    Nom: +1 Wraps of Unarmed Prowess
+
+    item ID: 2
+    Rarete: very rare
+    Nom: Mindguard Crown
+
+    item ID: 3
+    Rarete: legendary
+    Nom: Orcsplitter
+
+    item ID: 4
+    Rarete: uncommon
+    Nom: +1 Moon Sickle
+

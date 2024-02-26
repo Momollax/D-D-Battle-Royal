@@ -1,0 +1,11 @@
+Maison_28: T1
+Aucun ennemi ni piège
+
+    item ID: 1
+    Rarete: uncommon
+    Nom: Paper Bird
+
+    item ID: 2
+    Rarete: uncommon
+    Nom: Hew
+

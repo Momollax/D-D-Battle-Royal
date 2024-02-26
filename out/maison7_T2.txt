@@ -1,0 +1,11 @@
+Maison_7: T2
+Ennemis présents
+
+    item ID: 1
+    Rarete: rare
+    Nom: Flamefriend Lantern
+
+    item ID: 2
+    Rarete: very rare
+    Nom: Far Gear
+

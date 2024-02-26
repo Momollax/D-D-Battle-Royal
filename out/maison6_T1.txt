@@ -1,0 +1,15 @@
+Maison_6: T1
+Aucun ennemi ni piège
+
+    item ID: 1
+    Rarete: common
+    Nom: Pole of Collapsing
+
+    item ID: 2
+    Rarete: uncommon
+    Nom: Orzhov Guild Signet
+
+    item ID: 3
+    Rarete: common
+    Nom: Medal of the Horizonback
+

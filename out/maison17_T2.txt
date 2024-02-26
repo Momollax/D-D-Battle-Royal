@@ -1,0 +1,11 @@
+Maison_17: T2
+Aucun ennemi ni piège
+
+    item ID: 1
+    Rarete: common
+    Nom: Medal of Wit
+
+    item ID: 2
+    Rarete: very rare
+    Nom: Ioun Stone of Vitality
+

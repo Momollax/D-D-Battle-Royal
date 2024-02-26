@@ -1,0 +1,19 @@
+Maison_22: T1
+Aucun ennemi ni piège
+
+    item ID: 1
+    Rarete: common
+    Nom: Charlatan's Die
+
+    item ID: 2
+    Rarete: common
+    Nom: Spellwrought Tattoo (1st Level)
+
+    item ID: 3
+    Rarete: uncommon
+    Nom: Boots of Striding and Springing
+
+    item ID: 4
+    Rarete: common
+    Nom: Doublet of Dramatic Demise
+

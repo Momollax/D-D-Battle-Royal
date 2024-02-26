@@ -1,0 +1,23 @@
+Maison_26: T1
+Aucun ennemi ni piège
+
+    item ID: 1
+    Rarete: common
+    Nom: Enduring Spellbook
+
+    item ID: 2
+    Rarete: common
+    Nom: Medal of the Wetlands
+
+    item ID: 3
+    Rarete: common
+    Nom: Spell Scroll (Cantrip)
+
+    item ID: 4
+    Rarete: uncommon
+    Nom: Potion of Hill Giant Strength
+
+    item ID: 5
+    Rarete: common
+    Nom: Coin of Delving
+

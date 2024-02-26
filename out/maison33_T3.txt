@@ -1,0 +1,27 @@
+Maison_33: T3
+Pièges présents
+
+    item ID: 1
+    Rarete: common
+    Nom: Chest of Preserving
+
+    item ID: 2
+    Rarete: common
+    Nom: Rope of Mending
+
+    item ID: 3
+    Rarete: rare
+    Nom: Skymetal Staff
+
+    item ID: 4
+    Rarete: uncommon
+    Nom: Mummy Rot Antidote
+
+    item ID: 5
+    Rarete: rare
+    Nom: Libram of Souls and Flesh
+
+    item ID: 6
+    Rarete: common
+    Nom: Spyglass of Clairvoyance
+

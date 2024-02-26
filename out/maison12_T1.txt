@@ -1,0 +1,11 @@
+Maison_12: T1
+Aucun ennemi ni piège
+
+    item ID: 1
+    Rarete: common
+    Nom: Shiftweave
+
+    item ID: 2
+    Rarete: common
+    Nom: Ear Horn of Hearing
+

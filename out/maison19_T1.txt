@@ -1,0 +1,23 @@
+Maison_19: T1
+Aucun ennemi ni piège
+
+    item ID: 1
+    Rarete: rare
+    Nom: Figurine of Wondrous Power, Serpentine Owl
+
+    item ID: 2
+    Rarete: uncommon
+    Nom: Instrument of the Bards, Fochlucan Bandore
+
+    item ID: 3
+    Rarete: common
+    Nom: Potion of Comprehension
+
+    item ID: 4
+    Rarete: uncommon
+    Nom: Dust of Dryness
+
+    item ID: 5
+    Rarete: rare
+    Nom: Scroll of Protection from Fiends
+

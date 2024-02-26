@@ -1,0 +1,15 @@
+Maison_25: T3
+Pièges présents
+
+    item ID: 1
+    Rarete: rare
+    Nom: Potion of Mind Control (beast)
+
+    item ID: 2
+    Rarete: common
+    Nom: Doublet of Dramatic Demise
+
+    item ID: 3
+    Rarete: rare
+    Nom: Glowrune Pigment
+

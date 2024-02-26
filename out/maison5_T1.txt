@@ -1,0 +1,27 @@
+Maison_5: T1
+Aucun ennemi ni piège
+
+    item ID: 1
+    Rarete: uncommon
+    Nom: Travel Alchemical Kit
+
+    item ID: 2
+    Rarete: common
+    Nom: Spell Scroll (1st Level)
+
+    item ID: 3
+    Rarete: uncommon
+    Nom: Earworm
+
+    item ID: 4
+    Rarete: common
+    Nom: Medal of Muscle
+
+    item ID: 5
+    Rarete: common
+    Nom: Wand Sheath
+
+    item ID: 6
+    Rarete: uncommon
+    Nom: Deck of Miscellany
+

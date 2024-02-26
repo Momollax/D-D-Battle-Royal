@@ -1,0 +1,23 @@
+Maison_3: T1
+Aucun ennemi ni piège
+
+    item ID: 1
+    Rarete: uncommon
+    Nom: Storm Boomerang
+
+    item ID: 2
+    Rarete: common
+    Nom: Clockwork Amulet
+
+    item ID: 3
+    Rarete: rare
+    Nom: Glass-Studded Armor
+
+    item ID: 4
+    Rarete: uncommon
+    Nom: Elemental Gem, Yellow Diamond
+
+    item ID: 5
+    Rarete: common
+    Nom: Pole of Angling
+
