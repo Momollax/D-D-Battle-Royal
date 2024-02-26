@@ -1,0 +1,65 @@
+All-Purpose Tool +1,12 000Po
+Amulet of Proof against Detection and Location,20 000Po, https://5e.tools/items.html#amulet%20of%20proof%20against%20detection%20and%20location_DMG
+Amulet of the Devout +1,12 000Po
+Arcane Grimoire +1,12 000Po
+Barrier Tattoo (Small),3 000Po, https://5e.tools/items.html#barrier%20tattoo%20%28small%29_TCE
+Bâton du python,2 000 Po
+Blood Spear,9 500 Po, https://5e.tools/items.html#blood%20spear_CoS
+Bloodwell Vial +1,12 000Po
+Boots of Striding and Springing,4 000 Po, https://5e.tools/items.html#boots%20of%20striding%20and%20springing_DMG
+Boots of the Winterlands,10 000 Po, https://5e.tools/items.html#boots%20of%20the%20winterlands_DMG
+Bracers of Archery,2 000 Po, https://5e.tools/items.html#bracers%20of%20archery_DMG
+Brooch of Living Essence,800 Po, https://5e.tools/items.html#brooch%20of%20living%20essence_EGW
+Brooch of Shielding,8000 PO, https://5e.tools/items.html#brooch%20of%20shielding_DMG
+Circlet of Human Perfection,8000 Po, https://5e.tools/items.html#circlet%20of%20human%20perfection_WDMM
+Cloak of Elvenkind,5 000 Po, https://5e.tools/items.html#cloak%20of%20elvenkind_DMG
+Cloak of Protection,4 000 Po, https://5e.tools/items.html#cloak%20of%20protection_DMG
+Coiling Grasp Tattoo,3 200Po, https://5e.tools/items.html#coiling%20grasp%20tattoo_UA2020SpellsAndMagicTattoos
+Dragonhide Belt +1,8000 Po
+Earworm,1 500Po, https://5e.tools/items.html#earworm_ERLW
+Eldritch Claw Tattoo,6 000Po, https://5e.tools/items.html#eldritch%20claw%20tattoo_UA2020SpellsAndMagicTattoos
+Eyes of Charming,3 000Po, https://5e.tools/items.html#eyes%20of%20charming_DMG
+Eyes of the Eagle,3 000Po, https://5e.tools/items.html#eyes%20of%20the%20eagle_DMG
+Feywild Shard,10 000Po, https://5e.tools/items.html#feywild%20shard_TCE
+Finder's Goggles,2 250Po, https://5e.tools/items.html#finder%27s%20goggles_ERLW
+Gauntlets of Ogre Power,9 000Po, https://5e.tools/items.html#gauntlets%20of%20ogre%20power_DMG
+Gloves of Missile Snaring,3 000Po, https://5e.tools/items.html#gloves%20of%20missile%20snaring_DMG
+Gloves of Swimming and Climbing,2 000Po, https://5e.tools/items.html#gloves%20of%20swimming%20and%20climbing_DMG
+Goggles of Object Reading,3000 Po, https://5e.tools/items.html#goggles%20of%20object%20reading_EGW
+Guardian Emblem,1500 Po, https://5e.tools/items.html#guardian%20emblem_TCE
+Harkon's Bite,4000 Po, https://5e.tools/items.html#harkon%27s%20bite_VRGR
+Hat of Disguise,6000 Po, https://5e.tools/items.html#hat%20of%20disguise_DMG
+Headband of Intellect,7000 Po, https://5e.tools/items.html#headband%20of%20intellect_DMG
+Helm of Telepathy,10000 Po, https://5e.tools/items.html#helm%20of%20telepathy_DMG
+Helm of Underwater Action,3000 Po, https://5e.tools/items.html#helm%20of%20underwater%20action_GoS
+Living Gloves,2 500Po, https://5e.tools/items.html#living%20gloves_ERLW
+Medallion of Thoughts,3 000Po, https://5e.tools/items.html#medallion%20of%20thoughts_DMG
+Mizzium apparatus,20000 Po
+Moon Sickle +1,12 000Po
+Nature's Mantle,2 500Po, https://5e.tools/items.html#nature%27s%20mantle_TCE
+Necklace of Adaptation,1 000 Po, https://5e.tools/items.html#necklace%20of%20adaptation_DMG
+Pearl of Power,5 000Po, https://5e.tools/items.html#pearl%20of%20power_DMG
+Periapt of Wound Closure,5 000 Po, https://5e.tools/items.html#periapt%20of%20wound%20closure_DMG
+Pipes of the Sewers,2 000Po, https://5e.tools/items.html#pipes%20of%20the%20sewers_DMG
+Psi Crystal,2 000Po, https://5e.tools/items.html#psi%20crystal_IDRotF
+Rhythm-Maker's Drum +1,10000 Po
+Ring of Jumping,3 000 Po, https://5e.tools/items.html#ring%20of%20jumping_DMG
+Ring of Mind Shielding,20 000 Po, https://5e.tools/items.html#ring%20of%20mind%20shielding_DMG
+Ring of Truth Telling,2 500 Po, https://5e.tools/items.html#ring%20of%20truth%20telling_WDH
+Ring of Warmth,1 000 Po, https://5e.tools/items.html#ring%20of%20warmth_DMG
+Robe of Serpents,8 000Po, https://5e.tools/items.html#robe%20of%20serpents_SKT
+Rod of the Pact Keeper +1,10 000 Po
+Shatterspike,1 500 Po, https://5e.tools/items.html#shatterspike_TftYP
+Slippers of Spider Climbing,5 000 Po, https://5e.tools/items.html#slippers%20of%20spider%20climbing_DMG
+Slumbering dragon vessel,12 000 Po
+Slumbering Dragon-Touched Focus,15000 Po, https://5e.tools/items.html#slumbering%20dragon-touched%20focus_FTD
+Slumbering Dragon's Wrath Weapon,25000po
+Slumbering Scaled Ornament,15 000 Po, https://5e.tools/items.html#slumbering%20scaled%20ornament_FTD
+Staff of the Adder,2 000 Po, https://5e.tools/items.html#staff%20of%20the%20adder_DMG
+Stone of Good Luck,4 000Po, https://5e.tools/items.html#stone%20of%20good%20luck_DMG
+Sword of Vengeance,800 Po
+Trident of Fish Command,800Po, https://5e.tools/items.html#trident%20of%20fish%20command_DMG
+Wand of the War Mage +1,1 200 Po
+Wand of Web,7 000 Po, https://5e.tools/items.html#wand%20of%20web_DMG
+Weapon of Warning,30 000po
+Winged Boots,9 000 Po, https://5e.tools/items.html#winged%20boots_DMG
