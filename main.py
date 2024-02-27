@@ -10,11 +10,12 @@ import os
 
 background_image = imread('./picture/map.PNG')
 house_counter = 1
+
 def draw_square():
     plt.figure(figsize=(10, 10))
-    for i in range(3):
-        plt.plot([i / 3, i / 3], [0, 1], 'k--')
-        plt.plot([0, 1], [i / 3, i / 3], 'k--')
+    for i in range(4):
+        plt.plot([i / 4, i / 4], [0, 1], 'k--', linewidth=0.4)
+        plt.plot([0, 1], [i / 4, i / 4], 'k--', linewidth=0.4)
         
 
 def draw_circle(x, y, radius):
@@ -59,7 +60,8 @@ def generate_nested_circles(num_circles):
 
 def generate_houses(num_houses, map_width, map_height):
     house_locations = []  # Liste pour stocker les emplacements des maisons générées
-    
+    house_images = ['./picture/door1.PNG', './picture/door1.PNG', './picture/door3.PNG']
+
     for _ in range(num_houses):
         while True:
             house_x = random.uniform(0, map_width)
@@ -196,6 +198,5 @@ def main():
     plt.savefig('./out/map_no_circles.png', bbox_inches='tight')  # Enregistrer l'image sans les cercles
 
     generate_nested_circles(5)
-
 
 main()
