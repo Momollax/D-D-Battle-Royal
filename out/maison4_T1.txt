@@ -1,0 +1,31 @@
+Maison_4: T1
+Armes trouvées:
+    - Arbalète légère +0
+Armures trouvées:
+
+    - Mageur
+    - Mineur
+    - Mineur
+    - Mineur
+    - Mineur
+
+    item ID: 1
+    Rarete: common
+    Nom: Pot of Awakening
+    Nom: https://5e.tools/items.html#Pot%20of%20Awakening_XGE
+
+    item ID: 2
+    Rarete: common
+    Nom: Ruby of the War Mage
+    Nom: https://5e.tools/items.html#Ruby%20of%20the%20War%20Mage_XGE
+
+    item ID: 3
+    Rarete: common
+    Nom: Bottle of Boundless Coffee
+    Nom: https://5e.tools/items.html#Bottle%20of%20Boundless%20Coffee_SCC
+
+    item ID: 4
+    Rarete: common
+    Nom: Coin of Delving
+    Nom: https://5e.tools/items.html#Coin%20of%20Delving_EGW
+

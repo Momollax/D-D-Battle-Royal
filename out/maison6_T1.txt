@@ -1,0 +1,35 @@
+Maison_6: T1
+Armes trouvées:
+    - Hache à deux mains +0
+Armures trouvées:
+
+    - Mageur
+    - Mineur
+    - Mineur
+    - Mineur
+
+    item ID: 1
+    Rarete: common
+    Nom: Thermal Cube
+    Nom: https://5e.tools/items.html#Thermal%20Cube_IDRotF
+
+    item ID: 2
+    Rarete: common
+    Nom: Lock of Trickery
+    Nom: https://5e.tools/items.html#Lock%20of%20Trickery_XGE
+
+    item ID: 3
+    Rarete: common
+    Nom: Rope of Mending
+    Nom: https://5e.tools/items.html#Rope%20of%20Mending_XGE
+
+    item ID: 4
+    Rarete: rare
+    Nom: Quaal's Feather Token, Anchor
+    Nom: https://5e.tools/items.html#Quaal%27s%20Feather%20Token%2C%20Anchor_DMG
+
+    item ID: 5
+    Rarete: common
+    Nom: Medal of the Wetlands
+    Nom: https://5e.tools/items.html#Medal%20of%20the%20Wetlands_CRCotN
+

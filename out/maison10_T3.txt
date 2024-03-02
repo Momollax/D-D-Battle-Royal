@@ -1,0 +1,94 @@
+Maison_10: T3
+Ennemis présents:
+    - Ogre (Difficulté: 2)
+    - Wererat (Difficulté: 2)
+    - Banshee (Difficulté: 4)
+    - Water Elemental (Difficulté: 5)
+    - Bulette (Difficulté: 5)
+Armes trouvées:
+    - Épée à deux mains +2
+    - Hache d'armes +2
+Armures trouvées:
+    - Cotte de mailles +1
+
+    - Mineur
+    - Mineur
+    - Mageur
+    - Mineur
+    - Mineur
+
+    item ID: 1
+    Rarete: rare
+    Nom: Elemental Essence Shard
+    Nom: https://5e.tools/items.html#Elemental%20Essence%20Shard_TCE
+
+    item ID: 2
+    Rarete: legendary
+    Nom: Verminshroud (Dormant)
+    Nom: https://5e.tools/items.html#Verminshroud%20%28Dormant%29_EGW
+
+    item ID: 3
+    Rarete: very rare
+    Nom: Infernal Plate Armor
+    Nom: https://5e.tools/items.html#Infernal%20Plate%20Armor_CoA
+
+    item ID: 4
+    Rarete: rare
+    Nom: Horseshoes of Speed
+    Nom: https://5e.tools/items.html#Horseshoes%20of%20Speed_DMG
+
+    item ID: 5
+    Rarete: legendary
+    Nom: Ascendant Dragon Vessel
+    Nom: https://5e.tools/items.html#Ascendant%20Dragon%20Vessel_FTD
+
+    item ID: 6
+    Rarete: very rare
+    Nom: Manual of Iron Golems
+    Nom: https://5e.tools/items.html#Manual%20of%20Iron%20Golems_DMG
+
+    item ID: 7
+    Rarete: legendary
+    Nom: Condemner (Dormant)
+    Nom: https://5e.tools/items.html#Condemner%20%28Dormant%29_TDCSR
+
+    item ID: 8
+    Rarete: uncommon
+    Nom: Boots of the Vigilant
+    Nom: https://5e.tools/items.html#Boots%20of%20the%20Vigilant_TDCSR
+
+    item ID: 9
+    Rarete: rare
+    Nom: Ioun Stone, Natural Knowledge
+    Nom: https://5e.tools/items.html#Ioun%20Stone%2C%20Natural%20Knowledge_LLK
+
+    item ID: 10
+    Rarete: uncommon
+    Nom: Serpent Scale Armor
+    Nom: https://5e.tools/items.html#Serpent%20Scale%20Armor_CM
+
+    item ID: 11
+    Rarete: common
+    Nom: Mind Crystal (Subtle)
+    Nom: https://5e.tools/items.html#Mind%20Crystal%20%28Subtle%29_PaBTSO
+
+    item ID: 12
+    Rarete: common
+    Nom: Medal of the Conch
+    Nom: https://5e.tools/items.html#Medal%20of%20the%20Conch_CRCotN
+
+    item ID: 13
+    Rarete: common
+    Nom: Coin of Delving
+    Nom: https://5e.tools/items.html#Coin%20of%20Delving_EGW
+
+    item ID: 14
+    Rarete: very rare
+    Nom: Potion of Mind Control (monster)
+    Nom: https://5e.tools/items.html#Potion%20of%20Mind%20Control%20%28monster%29_TftYP
+
+    item ID: 15
+    Rarete: rare
+    Nom: Gauntlets of Rage
+    Nom: https://5e.tools/items.html#Gauntlets%20of%20Rage_CoA
+

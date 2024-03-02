@@ -1,0 +1,82 @@
+Maison_26: T3
+Ennemis présents:
+    - Gnoll (Difficulté: 0.5)
+    - Fire Elemental (Difficulté: 5)
+    - Driders (Difficulté: 6)
+    - Chimera (Difficulté: 6)
+Piège présent: piege lance flame (Dégâts: 4d8+2d)
+Armes trouvées:
+    - Fléchettes +1
+    - Sarbacane +1
+Armures trouvées:
+    - Cuirasse +2
+
+    - Mineur
+    - Mageur
+    - Mageur
+
+    item ID: 1
+    Rarete: uncommon
+    Nom: Gruul Guild Signet
+    Nom: https://5e.tools/items.html#Gruul%20Guild%20Signet_GGR
+
+    item ID: 2
+    Rarete: common
+    Nom: Everbright Lantern
+    Nom: https://5e.tools/items.html#Everbright%20Lantern_ERLW
+
+    item ID: 3
+    Rarete: uncommon
+    Nom: Potion of Psionic Fortitude
+    Nom: https://5e.tools/items.html#Potion%20of%20Psionic%20Fortitude_PaBTSO
+
+    item ID: 4
+    Rarete: rare
+    Nom: Black Chromatic Rose
+    Nom: https://5e.tools/items.html#Black%20Chromatic%20Rose_WBtW
+
+    item ID: 5
+    Rarete: rare
+    Nom: Coat of Lies
+    Nom: https://5e.tools/items.html#Coat%20of%20Lies_GHLoE
+
+    item ID: 6
+    Rarete: common
+    Nom: Cloak of Many Fashions
+    Nom: https://5e.tools/items.html#Cloak%20of%20Many%20Fashions_XGE
+
+    item ID: 7
+    Rarete: uncommon
+    Nom: Immovable Rod
+    Nom: https://5e.tools/items.html#Immovable%20Rod_DMG
+
+    item ID: 8
+    Rarete: common
+    Nom: Heward's Handy Spice Pouch
+    Nom: https://5e.tools/items.html#Heward%27s%20Handy%20Spice%20Pouch_XGE
+
+    item ID: 9
+    Rarete: rare
+    Nom: Duplicitous Manuscript
+    Nom: https://5e.tools/items.html#Duplicitous%20Manuscript_TCE
+
+    item ID: 10
+    Rarete: common
+    Nom: Staff of Flowers
+    Nom: https://5e.tools/items.html#Staff%20of%20Flowers_XGE
+
+    item ID: 11
+    Rarete: rare
+    Nom: Ring of Necrotic Resistance
+    Nom: https://5e.tools/items.html#Ring%20of%20Necrotic%20Resistance_DMG
+
+    item ID: 12
+    Rarete: rare
+    Nom: White Chromatic Rose
+    Nom: https://5e.tools/items.html#White%20Chromatic%20Rose_WBtW
+
+    item ID: 13
+    Rarete: legendary
+    Nom: Talisman of Pure Good
+    Nom: https://5e.tools/items.html#Talisman%20of%20Pure%20Good_DMG
+

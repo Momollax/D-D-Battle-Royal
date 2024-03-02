@@ -1,0 +1,58 @@
+Maison_18: T2
+Armes trouvées:
+    - Dague +0
+    - Épée longue +0
+Armures trouvées:
+    - Cuir +0
+
+    - Mineur
+    - Mineur
+    - Mineur
+    - Mageur
+    - Mineur
+
+    item ID: 1
+    Rarete: common
+    Nom: Cleansing Stone
+    Nom: https://5e.tools/items.html#Cleansing%20Stone_ERLW
+
+    item ID: 2
+    Rarete: uncommon
+    Nom: Shield of the Tortoise
+    Nom: https://5e.tools/items.html#Shield%20of%20the%20Tortoise_BMT
+
+    item ID: 3
+    Rarete: common
+    Nom: Illuminator's Tattoo
+    Nom: https://5e.tools/items.html#Illuminator%27s%20Tattoo_TCE
+
+    item ID: 4
+    Rarete: common
+    Nom: Ersatz Eye
+    Nom: https://5e.tools/items.html#Ersatz%20Eye_XGE
+
+    item ID: 5
+    Rarete: common
+    Nom: Heward's Handy Spice Pouch
+    Nom: https://5e.tools/items.html#Heward%27s%20Handy%20Spice%20Pouch_XGE
+
+    item ID: 6
+    Rarete: rare
+    Nom: Knave's Eye Patch
+    Nom: https://5e.tools/items.html#Knave%27s%20Eye%20Patch_WDH
+
+    item ID: 7
+    Rarete: common
+    Nom: Perfume of Bewitching
+    Nom: https://5e.tools/items.html#Perfume%20of%20Bewitching_XGE
+
+    item ID: 8
+    Rarete: uncommon
+    Nom: Deck of Illusions
+    Nom: https://5e.tools/items.html#Deck%20of%20Illusions_DMG
+
+    item ID: 9
+    Rarete: rare
+    Nom: Green Chromatic Rose
+    Nom: https://5e.tools/items.html#Green%20Chromatic%20Rose_WBtW
+

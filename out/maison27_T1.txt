@@ -1,0 +1,42 @@
+Maison_27: T1
+Piège présent: piege electique (Dégâts: 2d10+2d)
+Armes trouvées:
+    - Hache à deux mains +0
+Armures trouvées:
+
+    - Mineur
+    - Mineur
+    - Mineur
+    - Mineur
+    - Mineur
+
+    item ID: 1
+    Rarete: common
+    Nom: Dread Helm
+    Nom: https://5e.tools/items.html#Dread%20Helm_XGE
+
+    item ID: 2
+    Rarete: common
+    Nom: Potion of Climbing
+    Nom: https://5e.tools/items.html#Potion%20of%20Climbing_DMG
+
+    item ID: 3
+    Rarete: common
+    Nom: Spell Scroll (1st Level)
+    Nom: https://5e.tools/items.html#Spell%20Scroll%20%281st%20Level%29_DMG
+
+    item ID: 4
+    Rarete: common
+    Nom: Hat of Wizardry
+    Nom: https://5e.tools/items.html#Hat%20of%20Wizardry_XGE
+
+    item ID: 5
+    Rarete: rare
+    Nom: Bowl of Commanding Water Elementals
+    Nom: https://5e.tools/items.html#Bowl%20of%20Commanding%20Water%20Elementals_DMG
+
+    item ID: 6
+    Rarete: rare
+    Nom: Cloak of Displacement
+    Nom: https://5e.tools/items.html#Cloak%20of%20Displacement_DMG
+

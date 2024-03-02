@@ -1,0 +1,24 @@
+Maison_14: T1
+Piège présent: piege lance flame (Dégâts: 2d8+2d)
+Armes trouvées:
+    - Arbalète de poing +0
+Armures trouvées:
+
+    - Mineur
+    - Mineur
+
+    item ID: 1
+    Rarete: common
+    Nom: Medal of the Meat Pie
+    Nom: https://5e.tools/items.html#Medal%20of%20the%20Meat%20Pie_CRCotN
+
+    item ID: 2
+    Rarete: common
+    Nom: Staff of Flowers
+    Nom: https://5e.tools/items.html#Staff%20of%20Flowers_XGE
+
+    item ID: 3
+    Rarete: common
+    Nom: Wand of Conducting
+    Nom: https://5e.tools/items.html#Wand%20of%20Conducting_XGE
+

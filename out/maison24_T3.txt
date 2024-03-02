@@ -1,0 +1,87 @@
+Maison_24: T3
+Ennemis présents:
+    - Gnoll (Difficulté: 0.5)
+    - Duergar (Difficulté: 1)
+    - Duergar (Difficulté: 1)
+    - Ogre (Difficulté: 2)
+    - Minotaur (Difficulté: 3)
+    - Bulette (Difficulté: 5)
+    - Air Elemental (Difficulté: 5)
+Piège présent: piege electique (Dégâts: 4d10+2d)
+Armes trouvées:
+    - Focalisateur arcanique1 +1
+    - Hache à deux mains +1
+Armures trouvées:
+    - Demi-plate +1
+
+    - Mineur
+    - Mageur
+    - Superieur
+    - Mageur
+    - Mageur
+
+    item ID: 1
+    Rarete: rare
+    Nom: Boots of Levitation
+    Nom: https://5e.tools/items.html#Boots%20of%20Levitation_DMG
+
+    item ID: 2
+    Rarete: rare
+    Nom: Heart Weaver's Primer
+    Nom: https://5e.tools/items.html#Heart%20Weaver%27s%20Primer_TCE
+
+    item ID: 3
+    Rarete: uncommon
+    Nom: Eyes of the Eagle
+    Nom: https://5e.tools/items.html#Eyes%20of%20the%20Eagle_DMG
+
+    item ID: 4
+    Rarete: very rare
+    Nom: Brazen Armor
+    Nom: https://5e.tools/items.html#Brazen%20Armor_GHLoE
+
+    item ID: 5
+    Rarete: legendary
+    Nom: Ring of Water Elemental Command
+    Nom: https://5e.tools/items.html#Ring%20of%20Water%20Elemental%20Command_DMG
+
+    item ID: 6
+    Rarete: uncommon
+    Nom: +1 Rhythm-Maker's Drum
+    Nom: https://5e.tools/items.html#%2B1%20Rhythm-Maker%27s%20Drum_TCE
+
+    item ID: 7
+    Rarete: uncommon
+    Nom: Soul Coin
+    Nom: https://5e.tools/items.html#Soul%20Coin_CoA
+
+    item ID: 8
+    Rarete: very rare
+    Nom: Animated Shield
+    Nom: https://5e.tools/items.html#Animated%20Shield_DMG
+
+    item ID: 9
+    Rarete: uncommon
+    Nom: Bag of Tricks, Tan
+    Nom: https://5e.tools/items.html#Bag%20of%20Tricks%2C%20Tan_DMG
+
+    item ID: 10
+    Rarete: rare
+    Nom: Gavel of the Venn Rune
+    Nom: https://5e.tools/items.html#Gavel%20of%20the%20Venn%20Rune_SKT
+
+    item ID: 11
+    Rarete: uncommon
+    Nom: Portal Compass
+    Nom: https://5e.tools/items.html#Portal%20Compass_SatO
+
+    item ID: 12
+    Rarete: rare
+    Nom: Shield of Missile Attraction
+    Nom: https://5e.tools/items.html#Shield%20of%20Missile%20Attraction_DMG
+
+    item ID: 13
+    Rarete: uncommon
+    Nom: Psi Crystal
+    Nom: https://5e.tools/items.html#Psi%20Crystal_IDRotF
+

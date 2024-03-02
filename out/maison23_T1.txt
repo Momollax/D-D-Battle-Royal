@@ -1,0 +1,30 @@
+Maison_23: T1
+Ennemis présents:
+    - Mummy (Difficulté: 3)
+    - Mummy (Difficulté: 3)
+    - Mummy (Difficulté: 3)
+Armes trouvées:
+    - Lance +0
+Armures trouvées:
+
+    - Mineur
+    - Mageur
+    - Mineur
+    - Mineur
+    - Mineur
+
+    item ID: 1
+    Rarete: common
+    Nom: Candle of the Deep
+    Nom: https://5e.tools/items.html#Candle%20of%20the%20Deep_XGE
+
+    item ID: 2
+    Rarete: uncommon
+    Nom: Coiling Grasp Tattoo
+    Nom: https://5e.tools/items.html#Coiling%20Grasp%20Tattoo_TCE
+
+    item ID: 3
+    Rarete: rare
+    Nom: Helm of Teleportation
+    Nom: https://5e.tools/items.html#Helm%20of%20Teleportation_DMG
+

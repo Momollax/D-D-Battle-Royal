@@ -1,0 +1,67 @@
+Maison_28: T2
+Ennemis présents:
+    - Duergar (Difficulté: 1)
+    - Minotaur (Difficulté: 3)
+    - Stone Giant (Difficulté: 7)
+Armes trouvées:
+    - Épée à deux mains +1
+    - Lance d'arçon +1
+Armures trouvées:
+    - Cuir clouté +0
+
+    - Mageur
+    - Mageur
+    - Mageur
+    - Mineur
+    - Mineur
+
+    item ID: 1
+    Rarete: rare
+    Nom: Sunforger
+    Nom: https://5e.tools/items.html#Sunforger_GGR
+
+    item ID: 2
+    Rarete: common
+    Nom: Dread Helm
+    Nom: https://5e.tools/items.html#Dread%20Helm_XGE
+
+    item ID: 3
+    Rarete: common
+    Nom: Voting Kit
+    Nom: https://5e.tools/items.html#Voting%20Kit_AI
+
+    item ID: 4
+    Rarete: common
+    Nom: Dread Helm
+    Nom: https://5e.tools/items.html#Dread%20Helm_XGE
+
+    item ID: 5
+    Rarete: common
+    Nom: Masque Charm
+    Nom: https://5e.tools/items.html#Masque%20Charm_SCC
+
+    item ID: 6
+    Rarete: uncommon
+    Nom: Dust of Sneezing and Choking
+    Nom: https://5e.tools/items.html#Dust%20of%20Sneezing%20and%20Choking_DMG
+
+    item ID: 7
+    Rarete: rare
+    Nom: Rogue's Mantle
+    Nom: https://5e.tools/items.html#Rogue%27s%20Mantle_BMT
+
+    item ID: 8
+    Rarete: rare
+    Nom: Wand of Enemy Detection
+    Nom: https://5e.tools/items.html#Wand%20of%20Enemy%20Detection_DMG
+
+    item ID: 9
+    Rarete: uncommon
+    Nom: Sentinel Shield
+    Nom: https://5e.tools/items.html#Sentinel%20Shield_DMG
+
+    item ID: 10
+    Rarete: very rare
+    Nom: Staff of Frost
+    Nom: https://5e.tools/items.html#Staff%20of%20Frost_DMG
+

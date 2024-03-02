@@ -1,0 +1,53 @@
+Maison_15: T2
+Armes trouvées:
+    - Lance d'arçon +0
+    - Hache d'armes +0
+Armures trouvées:
+    - Harnois +1
+
+    - Mineur
+    - Mageur
+    - Mageur
+    - Mineur
+    - Mageur
+
+    item ID: 1
+    Rarete: uncommon
+    Nom: Circlet of Human Perfection
+    Nom: https://5e.tools/items.html#Circlet%20of%20Human%20Perfection_WDMM
+
+    item ID: 2
+    Rarete: uncommon
+    Nom: Wand of Magic Missiles
+    Nom: https://5e.tools/items.html#Wand%20of%20Magic%20Missiles_DMG
+
+    item ID: 3
+    Rarete: uncommon
+    Nom: Golgari Guild Signet
+    Nom: https://5e.tools/items.html#Golgari%20Guild%20Signet_GGR
+
+    item ID: 4
+    Rarete: common
+    Nom: Potion of Healing
+    Nom: https://5e.tools/items.html#Potion%20of%20Healing_DMG
+
+    item ID: 5
+    Rarete: rare
+    Nom: Flamefriend Lantern
+    Nom: https://5e.tools/items.html#Flamefriend%20Lantern_TDCSR
+
+    item ID: 6
+    Rarete: uncommon
+    Nom: Medallion of Thoughts
+    Nom: https://5e.tools/items.html#Medallion%20of%20Thoughts_DMG
+
+    item ID: 7
+    Rarete: common
+    Nom: Spell Scroll (Cantrip)
+    Nom: https://5e.tools/items.html#Spell%20Scroll%20%28Cantrip%29_DMG
+
+    item ID: 8
+    Rarete: common
+    Nom: Dread Helm
+    Nom: https://5e.tools/items.html#Dread%20Helm_XGE
+

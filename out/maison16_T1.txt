@@ -1,0 +1,36 @@
+Maison_16: T1
+Ennemis présents:
+    - Bandit Captain (Difficulté: 2)
+    - Alpha Greik (Difficulté: 7)
+Armes trouvées:
+    - Fléchettes +0
+Armures trouvées:
+
+    - Mineur
+    - Mageur
+
+    item ID: 1
+    Rarete: common
+    Nom: Dread Helm
+    Nom: https://5e.tools/items.html#Dread%20Helm_XGE
+
+    item ID: 2
+    Rarete: uncommon
+    Nom: Robe of Useful Items
+    Nom: https://5e.tools/items.html#Robe%20of%20Useful%20Items_DMG
+
+    item ID: 3
+    Rarete: uncommon
+    Nom: Wingwear
+    Nom: https://5e.tools/items.html#Wingwear_PotA
+
+    item ID: 4
+    Rarete: common
+    Nom: Spellwrought Tattoo (1st Level)
+    Nom: https://5e.tools/items.html#Spellwrought%20Tattoo%20%281st%20Level%29_TCE
+
+    item ID: 5
+    Rarete: uncommon
+    Nom: Echo Stone
+    Nom: https://5e.tools/items.html#Echo%20Stone_TDCSR
+

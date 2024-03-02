@@ -1,0 +1,26 @@
+Maison_22: T1
+Piège présent: piege Ã  serpent (Dégâts: 2d6+2d)
+Armes trouvées:
+    - Hallebarde +0
+Armures trouvées:
+
+    - Mineur
+    - Mineur
+    - Mageur
+    - Mineur
+
+    item ID: 1
+    Rarete: common
+    Nom: Ear Horn of Hearing
+    Nom: https://5e.tools/items.html#Ear%20Horn%20of%20Hearing_XGE
+
+    item ID: 2
+    Rarete: common
+    Nom: Dark Shard Amulet
+    Nom: https://5e.tools/items.html#Dark%20Shard%20Amulet_XGE
+
+    item ID: 3
+    Rarete: rare
+    Nom: Stirring Dragon-Touched Focus
+    Nom: https://5e.tools/items.html#Stirring%20Dragon-Touched%20Focus_FTD
+

@@ -1,0 +1,145 @@
+-- ITEM OBJET: Retirer les sources: https://cdn.discordapp.com/attachments/834006472119287818/1213163879564316762/image.png?ex=65f479e8&is=65e204e8&hm=f573e58724d8b31509aa172465d735f49ff350258d8f16467ac16f481cf50972&
+
+statistique item:
+
+t1 = ["0.2", "0.1"]
+
+- definir renge level du groupe (level total des pj/nb de joueur)
+
+- degats piege:
+    entre 1 & 5: dépend du piege, en moyenne 2d6 -> modificateur degats: 0 | Jet de sauvegarde 12
+    entre 6 et 9: modificateur degats: +1d | Jet de sauvegarde 14
+    entre 10 et 14:modificateur: 2d | Jet de sauvegarde 16
+    etre 15 et 20:modificateur: 3d | Jet de sauvegarde 18 
+ici le modificateur va ajouter un dé de degats de la meme valeur de selui du piege en fonction du tier
+du dongeon
+
+
+{"piege à serpent"; "2d6"; "3d6"; "4d6"}    // type de degats poison %T1:35 %T2:25 %T3:18
+{"piege à pic"; "2d4";"3d4";"4d4"}          // degats perçant        %T1:35 %T2:25 %T3:18
+{"piege lance flame";"2d8";"3d8";"4d8"}     // degats de feu         %T1:20 %T2:30 %T3:39
+{"piege electique";"2d10";"3d10";"4d10"}    // degats electique      %T1:10 %T2:20 %T3:25
+
+
+RENCONTRES
+niveau de la rencontre = fp groupe * modificaeur = fp mob
+choisir les mobs en fonction du niveau. 
+tier  modificateur 
+T1:      x1
+t2:      x1.3
+t3:      x1.5
+
+T1 niveau du groupe * 1.5 -> defini la valeur puis random pour définir les mob
+
+{"Hobgobelin";"0.5";"";""}
+{"Gnoll";"0.5";"";""}
+
+{"Gobelours";"1";"";""}
+{"Duergar";"1";"";""}
+
+{"Bandit capitaine";"2";"";""}
+{"Ogre";"2";"";""}
+{"Rat-garou";"2";"";""}
+
+{"Momie";"3";"";""}
+{"Minotaure";"3";"";""}
+
+{"Banshie";"4";"";""}
+{"Succube";"4";"";""}
+
+{"Élémentaire de la terre";"5";"";""}
+{"Élémentaire de l'eau";"5";"";""}
+{"Élémentaire de l'air";"5";"";""}	
+{"Élémentaire du feu";"5";"";""}
+{"Bulette";"5";"";""}
+
+{"drieder";"6";"";""}
+{"Chimera";"6";"";""}
+
+{"Géant des pierres";"7";"";""}
+{"Griek alpha";"7";"";""}
+
+{"Dragon vert, jeune";"8";"";""}
+
+def pick_enemy(int difficulty):
+
+    return liste_monstre
+
+    ARMOR
+
+Stats de drop par maison en fonction du tier:
+T1: obligatoirement 1 arme, 30 % de chance d'avoir une armure
+T2: Obligatoirement 2 arme, 60 % de chance d'avoir une armure
+T3: Obligatoirement 2 arme, 90 % de chance d'avoir une armure
+
+Les armures peuvent etre drop en +1 +2 +3 en fonction de la chance et du tier de la maison
+tier maison +0 +1 +2 +3
+T1:         80 20 0 0 
+T2:         50 30 8 2
+T3:         20 50 22 8
+
+Armures:
+Armures légères
+Cuir 11 + modificateur de Dex
+Cuir clouté 12 + modificateur de Dex
+
+Armures intermédiaires
+Chemise de mailles 13 + modificateur de Dex (max 2)	
+Cuirasse 14 + modificateur de Dex (max 2)	
+Demi-plate 15 + modificateur de Dex (max 2)	
+Cotte de mailles 16
+Clibanion 17
+Harnois 18
+
+Armes: 
+    CaC
+Bâton 
+Dague
+Hachette
+Cimeterre
+Épée à deux mains
+Épée courte
+Épée longue
+Fléau
+Hache à deux mains
+Hache d'armes
+Hallebarde
+Marteau de guerre
+Lance d'arçon
+Morgenstern
+Rapière
+poêle a frire pubg
+
+    distance
+Arbalète légère
+Arc court
+Fléchettes
+Fronde
+Arbalète de poing
+Arbalète lourde
+Arc long
+Filet
+Sarbacane
+
+    les deux
+Lance
+Trident
+
+    magicien (stat de drop x3)
+baguette de magicien
+Focalisateur arcanique
+medaillon 
+
+
+    Heal
+potion: rand(2, 5)
+    mineur mageur superieur
+T1: 80      20        0
+T2: 50      45        5
+T3: 35      55        10
+
+Potion de vitesse
+potion: rand(0, 1)
+T1: 0
+t2: 25
+t3: 40

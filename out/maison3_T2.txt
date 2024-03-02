@@ -1,0 +1,65 @@
+Maison_3: T2
+Ennemis présents:
+    - Gnoll (Difficulté: 0.5)
+    - Goblin (Difficulté: 1)
+    - Minotaur (Difficulté: 3)
+    - Young Green Dragon (Difficulté: 8)
+Piège présent: piege electique (Dégâts: 3d10+2d)
+Armes trouvées:
+    - Fléchettes +2
+    - Hache à deux mains +2
+Armures trouvées:
+
+    - Mineur
+    - Mineur
+
+    item ID: 1
+    Rarete: common
+    Nom: Common Glamerweave
+    Nom: https://5e.tools/items.html#Common%20Glamerweave_ERLW
+
+    item ID: 2
+    Rarete: common
+    Nom: Wand of Scowls
+    Nom: https://5e.tools/items.html#Wand%20of%20Scowls_XGE
+
+    item ID: 3
+    Rarete: legendary
+    Nom: Hazirawn
+    Nom: https://5e.tools/items.html#Hazirawn_HotDQ
+
+    item ID: 4
+    Rarete: common
+    Nom: Tankard of Sobriety
+    Nom: https://5e.tools/items.html#Tankard%20of%20Sobriety_XGE
+
+    item ID: 5
+    Rarete: uncommon
+    Nom: Wand of Silence
+    Nom: https://5e.tools/items.html#Wand%20of%20Silence_GHLoE
+
+    item ID: 6
+    Rarete: uncommon
+    Nom: Instrument of the Bards, Doss Lute
+    Nom: https://5e.tools/items.html#Instrument%20of%20the%20Bards%2C%20Doss%20Lute_DMG
+
+    item ID: 7
+    Rarete: rare
+    Nom: Rod of the Vonindod
+    Nom: https://5e.tools/items.html#Rod%20of%20the%20Vonindod_SKT
+
+    item ID: 8
+    Rarete: uncommon
+    Nom: Nature's Mantle
+    Nom: https://5e.tools/items.html#Nature%27s%20Mantle_TCE
+
+    item ID: 9
+    Rarete: uncommon
+    Nom: Dust of Sneezing and Choking
+    Nom: https://5e.tools/items.html#Dust%20of%20Sneezing%20and%20Choking_DMG
+
+    item ID: 10
+    Rarete: rare
+    Nom: Horn of Valhalla, Silver
+    Nom: https://5e.tools/items.html#Horn%20of%20Valhalla%2C%20Silver_DMG
+

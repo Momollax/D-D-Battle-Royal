@@ -1,0 +1,42 @@
+Maison_5: T1
+Armes trouvées:
+    - Hachette +0
+Armures trouvées:
+    - Chemise de mailles +0
+
+    - Mineur
+    - Mageur
+    - Mineur
+    - Mineur
+    - Mineur
+
+    item ID: 1
+    Rarete: uncommon
+    Nom: Potion of Fire Resistance
+    Nom: https://5e.tools/items.html#Potion%20of%20Fire%20Resistance_DMG
+
+    item ID: 2
+    Rarete: uncommon
+    Nom: Wand of Entangle
+    Nom: https://5e.tools/items.html#Wand%20of%20Entangle_TftYP
+
+    item ID: 3
+    Rarete: uncommon
+    Nom: +1 Wand of the War Mage
+    Nom: https://5e.tools/items.html#%2B1%20Wand%20of%20the%20War%20Mage_DMG
+
+    item ID: 4
+    Rarete: uncommon
+    Nom: Circlet of Human Perfection
+    Nom: https://5e.tools/items.html#Circlet%20of%20Human%20Perfection_WDMM
+
+    item ID: 5
+    Rarete: rare
+    Nom: Staff of the Rooted Hills
+    Nom: https://5e.tools/items.html#Staff%20of%20the%20Rooted%20Hills_BGG
+
+    item ID: 6
+    Rarete: legendary
+    Nom: Universal Solvent
+    Nom: https://5e.tools/items.html#Universal%20Solvent_DMG
+

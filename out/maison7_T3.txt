@@ -1,0 +1,99 @@
+Maison_7: T3
+Ennemis présents:
+    - Hobgoblin (Difficulté: 0.5)
+    - Goblin (Difficulté: 1)
+    - Minotaur (Difficulté: 3)
+    - Air Elemental (Difficulté: 5)
+    - Young Green Dragon (Difficulté: 8)
+Armes trouvées:
+    - Focalisateur arcanique1 +1
+    - Arc court +1
+Armures trouvées:
+    - Cuir clouté +1
+
+    - Mineur
+    - Mageur
+    - Mageur
+    - Mineur
+    - Mageur
+
+    item ID: 1
+    Rarete: very rare
+    Nom: Cold Absorbing Tattoo
+    Nom: https://5e.tools/items.html#Cold%20Absorbing%20Tattoo_TCE
+
+    item ID: 2
+    Rarete: rare
+    Nom: Blue Chromatic Rose
+    Nom: https://5e.tools/items.html#Blue%20Chromatic%20Rose_WBtW
+
+    item ID: 3
+    Rarete: rare
+    Nom: Potion of Gaseous Form
+    Nom: https://5e.tools/items.html#Potion%20of%20Gaseous%20Form_DMG
+
+    item ID: 4
+    Rarete: rare
+    Nom: Heart Weaver's Primer
+    Nom: https://5e.tools/items.html#Heart%20Weaver%27s%20Primer_TCE
+
+    item ID: 5
+    Rarete: uncommon
+    Nom: Winter's Dark Bite
+    Nom: https://5e.tools/items.html#Winter%27s%20Dark%20Bite_HftT
+
+    item ID: 6
+    Rarete: uncommon
+    Nom: Feywild Shard
+    Nom: https://5e.tools/items.html#Feywild%20Shard_TCE
+
+    item ID: 7
+    Rarete: very rare
+    Nom: Cataclysm Bolts
+    Nom: https://5e.tools/items.html#Cataclysm%20Bolts_TDCSR
+
+    item ID: 8
+    Rarete: uncommon
+    Nom: Wand of Web
+    Nom: https://5e.tools/items.html#Wand%20of%20Web_DMG
+
+    item ID: 9
+    Rarete: very rare
+    Nom: Cataclysm Bolts
+    Nom: https://5e.tools/items.html#Cataclysm%20Bolts_TDCSR
+
+    item ID: 10
+    Rarete: common
+    Nom: Dark Shard Amulet
+    Nom: https://5e.tools/items.html#Dark%20Shard%20Amulet_XGE
+
+    item ID: 11
+    Rarete: uncommon
+    Nom: Soul Coin
+    Nom: https://5e.tools/items.html#Soul%20Coin_BGDIA
+
+    item ID: 12
+    Rarete: common
+    Nom: Medal of Muscle
+    Nom: https://5e.tools/items.html#Medal%20of%20Muscle_CRCotN
+
+    item ID: 13
+    Rarete: uncommon
+    Nom: Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus
+    Nom: https://5e.tools/items.html#Prehistoric%20Figurine%20of%20Wondrous%20Power%2C%20Pyrite%20Plesiosaurus_BGG
+
+    item ID: 14
+    Rarete: rare
+    Nom: Dragontooth Dagger
+    Nom: https://5e.tools/items.html#Dragontooth%20Dagger_RoT
+
+    item ID: 15
+    Rarete: uncommon
+    Nom: Wand of Magic Missiles
+    Nom: https://5e.tools/items.html#Wand%20of%20Magic%20Missiles_DMG
+
+    item ID: 16
+    Rarete: uncommon
+    Nom: Amulet of Proof against Detection and Location
+    Nom: https://5e.tools/items.html#Amulet%20of%20Proof%20against%20Detection%20and%20Location_DMG
+

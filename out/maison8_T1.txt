@@ -1,0 +1,34 @@
+Maison_8: T1
+Armes trouvées:
+    - Fléau +1
+Armures trouvées:
+
+    - Mineur
+    - Mineur
+    - Mineur
+
+    item ID: 1
+    Rarete: uncommon
+    Nom: Brooch of Living Essence
+    Nom: https://5e.tools/items.html#Brooch%20of%20Living%20Essence_EGW
+
+    item ID: 2
+    Rarete: uncommon
+    Nom: Hew
+    Nom: https://5e.tools/items.html#Hew_PaBTSO
+
+    item ID: 3
+    Rarete: rare
+    Nom: Red Chromatic Rose
+    Nom: https://5e.tools/items.html#Red%20Chromatic%20Rose_WBtW
+
+    item ID: 4
+    Rarete: common
+    Nom: Strixhaven Pennant
+    Nom: https://5e.tools/items.html#Strixhaven%20Pennant_SCC
+
+    item ID: 5
+    Rarete: rare
+    Nom: Stormrider Boots
+    Nom: https://5e.tools/items.html#Stormrider%20Boots_TDCSR
+

@@ -1,0 +1,56 @@
+Maison_1: T2
+Armes trouvées:
+    - Épée courte +1
+    - Baguette de magicien1 +1
+Armures trouvées:
+
+    - Mineur
+    - Mageur
+    - Mageur
+    - Mineur
+
+    item ID: 1
+    Rarete: common
+    Nom: Spellshard
+    Nom: https://5e.tools/items.html#Spellshard_ERLW
+
+    item ID: 2
+    Rarete: uncommon
+    Nom: Selesnya Guild Signet
+    Nom: https://5e.tools/items.html#Selesnya%20Guild%20Signet_GGR
+
+    item ID: 3
+    Rarete: legendary
+    Nom: Luxon Beacon
+    Nom: https://5e.tools/items.html#Luxon%20Beacon_EGW
+
+    item ID: 4
+    Rarete: rare
+    Nom: Wayfarer's Boots
+    Nom: https://5e.tools/items.html#Wayfarer%27s%20Boots_BGG
+
+    item ID: 5
+    Rarete: very rare
+    Nom: Staff of Thunder and Lightning
+    Nom: https://5e.tools/items.html#Staff%20of%20Thunder%20and%20Lightning_DMG
+
+    item ID: 6
+    Rarete: common
+    Nom: Bead of Nourishment
+    Nom: https://5e.tools/items.html#Bead%20of%20Nourishment_XGE
+
+    item ID: 7
+    Rarete: very rare
+    Nom: Dimensional Loop
+    Nom: https://5e.tools/items.html#Dimensional%20Loop_AI
+
+    item ID: 8
+    Rarete: common
+    Nom: Clockwork Amulet
+    Nom: https://5e.tools/items.html#Clockwork%20Amulet_XGE
+
+    item ID: 9
+    Rarete: uncommon
+    Nom: Staff of the Adder
+    Nom: https://5e.tools/items.html#Staff%20of%20the%20Adder_DMG
+

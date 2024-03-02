@@ -1,0 +1,30 @@
+Maison_25: T1
+Armes trouvées:
+    - Morgenstern +0
+Armures trouvées:
+    - Cuirasse +0
+
+    - Mageur
+    - Mageur
+    - Mineur
+
+    item ID: 1
+    Rarete: common
+    Nom: Enduring Spellbook
+    Nom: https://5e.tools/items.html#Enduring%20Spellbook_XGE
+
+    item ID: 2
+    Rarete: common
+    Nom: Feather Token
+    Nom: https://5e.tools/items.html#Feather%20Token_ERLW
+
+    item ID: 3
+    Rarete: common
+    Nom: Orb of Time
+    Nom: https://5e.tools/items.html#Orb%20of%20Time_XGE
+
+    item ID: 4
+    Rarete: common
+    Nom: Pipe of Smoke Monsters
+    Nom: https://5e.tools/items.html#Pipe%20of%20Smoke%20Monsters_XGE
+

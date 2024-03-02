@@ -1,0 +1,23 @@
+[
+    {"name": "Hobgoblin", "difficulty": 0.5},
+    {"name": "Gnoll", "difficulty": 0.5},
+    {"name": "Goblin", "difficulty": 1},
+    {"name": "Duergar", "difficulty": 1},
+    {"name": "Bandit Captain", "difficulty": 2},
+    {"name": "Ogre", "difficulty": 2},
+    {"name": "Wererat", "difficulty": 2},
+    {"name": "Mummy", "difficulty": 3},
+    {"name": "Minotaur", "difficulty": 3},
+    {"name": "Banshee", "difficulty": 4},
+    {"name": "Succubus", "difficulty": 4},
+    {"name": "Earth Elemental", "difficulty": 5},
+    {"name": "Water Elemental", "difficulty": 5},
+    {"name": "Air Elemental", "difficulty": 5},
+    {"name": "Fire Elemental", "difficulty": 5},
+    {"name": "Bulette", "difficulty": 5},
+    {"name": "Driders", "difficulty": 6},
+    {"name": "Chimera", "difficulty": 6},
+    {"name": "Stone Giant", "difficulty": 7},
+    {"name": "Alpha Greik", "difficulty": 7},
+    {"name": "Young Green Dragon", "difficulty": 8}
+]

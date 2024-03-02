@@ -1,0 +1,25 @@
+Maison_13: T1
+Armes trouvées:
+    - Lance +1
+Armures trouvées:
+    - Demi-plate +0
+
+    - Mageur
+    - Mineur
+    - Mineur
+
+    item ID: 1
+    Rarete: common
+    Nom: Masque Charm
+    Nom: https://5e.tools/items.html#Masque%20Charm_SCC
+
+    item ID: 2
+    Rarete: uncommon
+    Nom: Instrument of the Bards, Fochlucan Bandore
+    Nom: https://5e.tools/items.html#Instrument%20of%20the%20Bards%2C%20Fochlucan%20Bandore_DMG
+
+    item ID: 3
+    Rarete: common
+    Nom: Medal of Muscle
+    Nom: https://5e.tools/items.html#Medal%20of%20Muscle_CRCotN
+

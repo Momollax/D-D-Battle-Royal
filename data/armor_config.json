@@ -1,0 +1,68 @@
+{
+    "tiers": {
+      "T1": {
+        "nombre_armes": 1,
+        "chance_armure": 0.4,
+        "chances_drop": [80, 20, 0, 0]
+      },
+      "T2": {
+        "nombre_armes": 2,
+        "chance_armure": 0.7,
+        "chances_drop": [50, 30, 8, 2]
+      },
+      "T3": {
+        "nombre_armes": 2,
+        "chance_armure": 1,
+        "chances_drop": [20, 50, 22, 8]
+      }
+    },
+    "armures": [
+      {"nom": "Cuir", "modificateurs": ["+0", "+1", "+2", "+3"]},
+      {"nom": "Cuir clouté", "modificateurs": ["+0", "+1", "+2", "+3"]},
+      {"nom": "Chemise de mailles", "modificateurs": ["+0", "+1", "+2", "+3"]},
+      {"nom": "Cuirasse", "modificateurs": ["+0", "+1", "+2", "+3"]},
+      {"nom": "Demi-plate", "modificateurs": ["+0", "+1", "+2", "+3"]},
+      {"nom": "Cotte de mailles", "modificateurs": ["+0", "+1", "+2", "+3"]},
+      {"nom": "Clibanion",  "modificateurs": ["+0", "+1", "+2", "+3"]},
+      {"nom": "Harnois", "modificateurs": ["+0", "+1", "+2", "+3"]}
+    ],
+    "armes": {
+      "Bâton": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Dague": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Hachette": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Cimeterre": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Épée à deux mains": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Épée courte": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Épée longue": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Fléau": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Hache à deux mains": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Hache d'armes": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Hallebarde": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Marteau de guerre": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Lance d'arçon": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Morgenstern": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Rapière": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Poêle à frire PUBG": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Arbalète légère": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Arc court": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Fléchettes": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Fronde": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Arbalète de poing": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Arbalète lourde": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Arc long": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Filet": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Sarbacane": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Lance": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Trident": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Baguette de magicien": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Baguette de magicien1": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Baguette de magicien2": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Focalisateur arcanique": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Focalisateur arcanique1": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Focalisateur arcanique2": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Médaillon": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Médaillon1": {"modificateurs": ["+0", "+1", "+2", "+3"]},
+      "Médaillon2": {"modificateurs": ["+0", "+1", "+2", "+3"]}
+    }
+  }
+  

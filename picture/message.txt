@@ -7731,7 +7731,7 @@
         "name": "Sun Staff",
         "rarity": "rare",
         "source": "BMT",
-        "url": "https://5e.tools/items.COTNhtml#Sun%20Staff_BMT",
+        "url": "https://5e.tools/items.html#Sun%20Staff_BMT",
         "value": null
     },
     {

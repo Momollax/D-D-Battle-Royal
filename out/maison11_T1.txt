@@ -1,0 +1,36 @@
+Maison_11: T1
+Ennemis présents:
+    - Gnoll (Difficulté: 0.5)
+    - Bandit Captain (Difficulté: 2)
+    - Minotaur (Difficulté: 3)
+    - Driders (Difficulté: 6)
+Armes trouvées:
+    - Arbalète légère +1
+Armures trouvées:
+    - Cuirasse +0
+
+    - Mageur
+    - Mineur
+    - Mineur
+    - Mineur
+
+    item ID: 1
+    Rarete: uncommon
+    Nom: Mind Crystal (Extended)
+    Nom: https://5e.tools/items.html#Mind%20Crystal%20%28Extended%29_PaBTSO
+
+    item ID: 2
+    Rarete: common
+    Nom: Bead of Refreshment
+    Nom: https://5e.tools/items.html#Bead%20of%20Refreshment_XGE
+
+    item ID: 3
+    Rarete: uncommon
+    Nom: Shatterspike
+    Nom: https://5e.tools/items.html#Shatterspike_TftYP
+
+    item ID: 4
+    Rarete: common
+    Nom: Pole of Collapsing
+    Nom: https://5e.tools/items.html#Pole%20of%20Collapsing_XGE
+

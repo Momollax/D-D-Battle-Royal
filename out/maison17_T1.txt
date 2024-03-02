@@ -1,0 +1,45 @@
+Maison_17: T1
+Ennemis présents:
+    - Gnoll (Difficulté: 0.5)
+    - Hobgoblin (Difficulté: 0.5)
+    - Ogre (Difficulté: 2)
+    - Mummy (Difficulté: 3)
+    - Succubus (Difficulté: 4)
+Armes trouvées:
+    - Hachette +0
+Armures trouvées:
+
+    - Mageur
+    - Mineur
+    - Mageur
+
+    item ID: 1
+    Rarete: common
+    Nom: Medal of the Conch
+    Nom: https://5e.tools/items.html#Medal%20of%20the%20Conch_CRCotN
+
+    item ID: 2
+    Rarete: uncommon
+    Nom: +1 Bloodwell Vial
+    Nom: https://5e.tools/items.html#%2B1%20Bloodwell%20Vial_TCE
+
+    item ID: 3
+    Rarete: uncommon
+    Nom: Hat of Disguise
+    Nom: https://5e.tools/items.html#Hat%20of%20Disguise_DMG
+
+    item ID: 4
+    Rarete: uncommon
+    Nom: Boots of the Vigilant
+    Nom: https://5e.tools/items.html#Boots%20of%20the%20Vigilant_TDCSR
+
+    item ID: 5
+    Rarete: common
+    Nom: Vox Seeker
+    Nom: https://5e.tools/items.html#Vox%20Seeker_EGW
+
+    item ID: 6
+    Rarete: common
+    Nom: Pole of Collapsing
+    Nom: https://5e.tools/items.html#Pole%20of%20Collapsing_XGE
+

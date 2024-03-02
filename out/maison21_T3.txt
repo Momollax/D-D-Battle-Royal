@@ -1,0 +1,77 @@
+Maison_21: T3
+Piège présent: piege electique (Dégâts: 4d10+2d)
+Armes trouvées:
+    - Fronde +1
+    - Filet +1
+Armures trouvées:
+    - Clibanion +1
+
+    - Mageur
+    - Mineur
+    - Mineur
+
+    item ID: 1
+    Rarete: rare
+    Nom: Chancellor's Crest
+    Nom: https://5e.tools/items.html#Chancellor%27s%20Crest_DoDk
+
+    item ID: 2
+    Rarete: common
+    Nom: Potion of Climbing
+    Nom: https://5e.tools/items.html#Potion%20of%20Climbing_DMG
+
+    item ID: 3
+    Rarete: rare
+    Nom: +2 Dragonhide Belt
+    Nom: https://5e.tools/items.html#%2B2%20Dragonhide%20Belt_FTD
+
+    item ID: 4
+    Rarete: rare
+    Nom: Earthboard
+    Nom: https://5e.tools/items.html#Earthboard_TDCSR
+
+    item ID: 5
+    Rarete: uncommon
+    Nom: Slippers of Spider Climbing
+    Nom: https://5e.tools/items.html#Slippers%20of%20Spider%20Climbing_DMG
+
+    item ID: 6
+    Rarete: very rare
+    Nom: Crystal Ball
+    Nom: https://5e.tools/items.html#Crystal%20Ball_DMG
+
+    item ID: 7
+    Rarete: uncommon
+    Nom: Wand of Secrets
+    Nom: https://5e.tools/items.html#Wand%20of%20Secrets_DMG
+
+    item ID: 8
+    Rarete: legendary
+    Nom: Star Razor (Dormant)
+    Nom: https://5e.tools/items.html#Star%20Razor%20%28Dormant%29_TDCSR
+
+    item ID: 9
+    Rarete: uncommon
+    Nom: Boomerang Shield
+    Nom: https://5e.tools/items.html#Boomerang%20Shield_BMT
+
+    item ID: 10
+    Rarete: rare
+    Nom: Deck of Oracles
+    Nom: https://5e.tools/items.html#Deck%20of%20Oracles_BMT
+
+    item ID: 11
+    Rarete: uncommon
+    Nom: Helm of Telepathy
+    Nom: https://5e.tools/items.html#Helm%20of%20Telepathy_DMG
+
+    item ID: 12
+    Rarete: uncommon
+    Nom: Lorehold Primer
+    Nom: https://5e.tools/items.html#Lorehold%20Primer_SCC
+
+    item ID: 13
+    Rarete: uncommon
+    Nom: House of Cards
+    Nom: https://5e.tools/items.html#House%20of%20Cards_BMT
+

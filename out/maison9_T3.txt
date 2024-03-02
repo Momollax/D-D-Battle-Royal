@@ -1,0 +1,102 @@
+Maison_9: T3
+Ennemis présents:
+    - Fire Elemental (Difficulté: 5)
+    - Water Elemental (Difficulté: 5)
+    - Young Green Dragon (Difficulté: 8)
+Piège présent: piege lance flame (Dégâts: 4d8+2d)
+Armes trouvées:
+    - Rapière +1
+    - Sarbacane +1
+Armures trouvées:
+    - Clibanion +2
+
+    - Mageur
+    - Superieur
+    - Mageur
+    - Mageur
+
+    item ID: 1
+    Rarete: common
+    Nom: Heward's Handy Spice Pouch
+    Nom: https://5e.tools/items.html#Heward%27s%20Handy%20Spice%20Pouch_XGE
+
+    item ID: 2
+    Rarete: uncommon
+    Nom: Rakdos Keyrune
+    Nom: https://5e.tools/items.html#Rakdos%20Keyrune_GGR
+
+    item ID: 3
+    Rarete: common
+    Nom: Medal of the Wetlands
+    Nom: https://5e.tools/items.html#Medal%20of%20the%20Wetlands_CRCotN
+
+    item ID: 4
+    Rarete: uncommon
+    Nom: Alchemy Jug
+    Nom: https://5e.tools/items.html#Alchemy%20Jug_DMG
+
+    item ID: 5
+    Rarete: rare
+    Nom: +2 All-Purpose Tool
+    Nom: https://5e.tools/items.html#%2B2%20All-Purpose%20Tool_TCE
+
+    item ID: 6
+    Rarete: rare
+    Nom: Staff of the Ivory Claw
+    Nom: https://5e.tools/items.html#Staff%20of%20the%20Ivory%20Claw_EGW
+
+    item ID: 7
+    Rarete: uncommon
+    Nom: Ring of Puzzler's Wit
+    Nom: https://5e.tools/items.html#Ring%20of%20Puzzler%27s%20Wit_BMT
+
+    item ID: 8
+    Rarete: rare
+    Nom: +1 Fate Dealer's Deck
+    Nom: https://5e.tools/items.html#%2B1%20Fate%20Dealer%27s%20Deck_BMT
+
+    item ID: 9
+    Rarete: uncommon
+    Nom: Pipes of the Sewers
+    Nom: https://5e.tools/items.html#Pipes%20of%20the%20Sewers_DMG
+
+    item ID: 10
+    Rarete: very rare
+    Nom: Dispelling Stone
+    Nom: https://5e.tools/items.html#Dispelling%20Stone_EGW
+
+    item ID: 11
+    Rarete: rare
+    Nom: Outer Essence Shard (Chaotic)
+    Nom: https://5e.tools/items.html#Outer%20Essence%20Shard%20%28Chaotic%29_TCE
+
+    item ID: 12
+    Rarete: common
+    Nom: Vox Seeker
+    Nom: https://5e.tools/items.html#Vox%20Seeker_EGW
+
+    item ID: 13
+    Rarete: very rare
+    Nom: Steel
+    Nom: https://5e.tools/items.html#Steel_WBtW
+
+    item ID: 14
+    Rarete: rare
+    Nom: +2 Arcane Grimoire
+    Nom: https://5e.tools/items.html#%2B2%20Arcane%20Grimoire_TCE
+
+    item ID: 15
+    Rarete: rare
+    Nom: Wayfarer's Boots
+    Nom: https://5e.tools/items.html#Wayfarer%27s%20Boots_BGG
+
+    item ID: 16
+    Rarete: uncommon
+    Nom: Night Caller
+    Nom: https://5e.tools/items.html#Night%20Caller_TftYP
+
+    item ID: 17
+    Rarete: common
+    Nom: Wand of Smiles
+    Nom: https://5e.tools/items.html#Wand%20of%20Smiles_XGE
+

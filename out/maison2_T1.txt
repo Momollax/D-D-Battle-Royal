@@ -1,0 +1,47 @@
+Maison_2: T1
+Ennemis présents:
+    - Bulette (Difficulté: 5)
+    - Stone Giant (Difficulté: 7)
+Armes trouvées:
+    - Poêle à frire PUBG +0
+Armures trouvées:
+
+    - Mageur
+    - Mineur
+    - Mineur
+
+    item ID: 1
+    Rarete: uncommon
+    Nom: Alchemy Jug (Orange)
+    Nom: https://5e.tools/items.html#Alchemy%20Jug%20%28Orange%29_CM
+
+    item ID: 2
+    Rarete: common
+    Nom: Dread Helm
+    Nom: https://5e.tools/items.html#Dread%20Helm_XGE
+
+    item ID: 3
+    Rarete: common
+    Nom: Medal of the Wetlands
+    Nom: https://5e.tools/items.html#Medal%20of%20the%20Wetlands_CRCotN
+
+    item ID: 4
+    Rarete: very rare
+    Nom: Potion of Mind Control (monster)
+    Nom: https://5e.tools/items.html#Potion%20of%20Mind%20Control%20%28monster%29_TftYP
+
+    item ID: 5
+    Rarete: common
+    Nom: Clockwork Amulet
+    Nom: https://5e.tools/items.html#Clockwork%20Amulet_XGE
+
+    item ID: 6
+    Rarete: common
+    Nom: Dread Helm
+    Nom: https://5e.tools/items.html#Dread%20Helm_XGE
+
+    item ID: 7
+    Rarete: common
+    Nom: Bottle of Boundless Coffee
+    Nom: https://5e.tools/items.html#Bottle%20of%20Boundless%20Coffee_SCC
+

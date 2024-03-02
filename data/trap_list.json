@@ -1,0 +1,20 @@
+{
+    "T1": [
+      {"name": "piege à serpent", "damage": "2d6", "probability": 35},
+      {"name": "piege à pic", "damage": "2d4", "probability": 35},
+      {"name": "piege lance flame", "damage": "2d8", "probability": 20},
+      {"name": "piege electique", "damage": "2d10", "probability": 10}
+    ],
+    "T2": [
+      {"name": "piege à serpent", "damage": "3d6", "probability": 25},
+      {"name": "piege à pic", "damage": "3d4", "probability": 25},
+      {"name": "piege lance flame", "damage": "3d8", "probability": 30},
+      {"name": "piege electique", "damage": "3d10", "probability": 20}
+    ],
+    "T3": [
+      {"name": "piege à serpent", "damage": "4d6", "probability": 18},
+      {"name": "piege à pic", "damage": "4d4", "probability": 18},
+      {"name": "piege lance flame", "damage": "4d8", "probability": 39},
+      {"name": "piege electique", "damage": "4d10", "probability": 25}
+    ]
+  }

@@ -1,0 +1,40 @@
+Maison_19: T1
+Piège présent: piege Ã  pic (Dégâts: 2d4+2d)
+Armes trouvées:
+    - Cimeterre +0
+Armures trouvées:
+
+    - Mineur
+    - Mineur
+    - Mineur
+
+    item ID: 1
+    Rarete: common
+    Nom: Candle of the Deep
+    Nom: https://5e.tools/items.html#Candle%20of%20the%20Deep_XGE
+
+    item ID: 2
+    Rarete: common
+    Nom: Feather Token
+    Nom: https://5e.tools/items.html#Feather%20Token_ERLW
+
+    item ID: 3
+    Rarete: uncommon
+    Nom: Robe of Serpents
+    Nom: https://5e.tools/items.html#Robe%20of%20Serpents_SKT
+
+    item ID: 4
+    Rarete: rare
+    Nom: Orb of the Stein Rune
+    Nom: https://5e.tools/items.html#Orb%20of%20the%20Stein%20Rune_SKT
+
+    item ID: 5
+    Rarete: common
+    Nom: Coin of Delving
+    Nom: https://5e.tools/items.html#Coin%20of%20Delving_EGW
+
+    item ID: 6
+    Rarete: common
+    Nom: Wand of Scowls
+    Nom: https://5e.tools/items.html#Wand%20of%20Scowls_XGE
+

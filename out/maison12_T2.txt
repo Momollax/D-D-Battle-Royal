@@ -1,0 +1,57 @@
+Maison_12: T2
+Armes trouvées:
+    - Lance d'arçon +0
+    - Focalisateur arcanique2 +0
+Armures trouvées:
+    - Cotte de mailles +1
+
+    - Mineur
+    - Mageur
+    - Mageur
+    - Mageur
+
+    item ID: 1
+    Rarete: common
+    Nom: Potion of Comprehension
+    Nom: https://5e.tools/items.html#Potion%20of%20Comprehension_WDMM
+
+    item ID: 2
+    Rarete: common
+    Nom: Medal of the Meat Pie
+    Nom: https://5e.tools/items.html#Medal%20of%20the%20Meat%20Pie_CRCotN
+
+    item ID: 3
+    Rarete: uncommon
+    Nom: Bag of Tricks, Gray
+    Nom: https://5e.tools/items.html#Bag%20of%20Tricks%2C%20Gray_DMG
+
+    item ID: 4
+    Rarete: uncommon
+    Nom: Feywild Shard
+    Nom: https://5e.tools/items.html#Feywild%20Shard_TCE
+
+    item ID: 5
+    Rarete: rare
+    Nom: Elven Chain
+    Nom: https://5e.tools/items.html#Elven%20Chain_DMG
+
+    item ID: 6
+    Rarete: common
+    Nom: Pipe of Smoke Monsters
+    Nom: https://5e.tools/items.html#Pipe%20of%20Smoke%20Monsters_XGE
+
+    item ID: 7
+    Rarete: rare
+    Nom: Ioun Stone, Sustenance
+    Nom: https://5e.tools/items.html#Ioun%20Stone%2C%20Sustenance_DMG
+
+    item ID: 8
+    Rarete: common
+    Nom: Perfume of Bewitching
+    Nom: https://5e.tools/items.html#Perfume%20of%20Bewitching_XGE
+
+    item ID: 9
+    Rarete: common
+    Nom: Sekolahian Worshiping Statuette
+    Nom: https://5e.tools/items.html#Sekolahian%20Worshiping%20Statuette_GoS
+
